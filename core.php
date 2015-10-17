@@ -1,3 +1,3 @@
 <?php 
- echo "hi, i am script in php ";
+ echo "hi, i am script in php <br/>";
  ?>
